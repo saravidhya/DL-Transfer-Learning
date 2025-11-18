@@ -33,9 +33,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: Priyanka K
+### Name: Vidhiya Lakshmi S
 
-### Register Number: 212223230162
+### Register Number: 212223230238
 
 ```python
 import torch as t
